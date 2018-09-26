@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\playerController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\restartGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\gameOver.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\winGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\playerController.cs" Line="55" Column="1" />
+      <File FileName="Assets\Scripts\projectileController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\healthPickUp.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\shootSpore.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\enemyHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\enemyDamage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\enemyMovementController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\cameraFollow2DPlatformer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\closeApplication.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\playerHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MainMenu.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
